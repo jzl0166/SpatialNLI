@@ -1,5 +1,10 @@
 # SpatialNLI
 
+## Usage
+To train new model
+'''python main.py --mode train'''
+
+
 ## Spatial Comprehension Model
 Please refer [Here](https://github.com/VV123/Spatial-Comprehension).
 ## Evaluation
