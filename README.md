@@ -2,7 +2,8 @@
 
 ## Usage
 To train new model
-'''python main.py --mode train'''
+
+```python main.py --mode train```
 
 
 ## Spatial Comprehension Model
