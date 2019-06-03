@@ -5,6 +5,10 @@ To train new model
 
 ```python main.py --mode train```
 
+To infer using pre-trained model
+
+```python main.py --mode infer```
+
 
 ## Spatial Comprehension Model
 Please refer [Here](https://github.com/VV123/Spatial-Comprehension).
