@@ -1,2 +1,0 @@
-max ( rating ):best
-house no:place,places,restaurant,restaurants,where
