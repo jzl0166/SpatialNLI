@@ -9,6 +9,7 @@ To infer using pre-trained model
 
 ```python main.py --mode infer```
 
+To sequence-to-sequence model is based on an [NLIDB](https://github.com/VV123/NLIDB) project.
 
 ## Spatial Comprehension Model
 Please refer [Here](https://github.com/VV123/Spatial-Comprehension).
