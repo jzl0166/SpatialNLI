@@ -1,5 +1,7 @@
 # SpatialNLI
 
+  SpatialNLI: A Natural Language Interface to Spatial DatabasesUsing Spatial Comprehension
+
 ## Usage
 To train new model
 
