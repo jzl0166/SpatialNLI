@@ -13,7 +13,7 @@ To infer using pre-trained model
 
 
 ## Spatial Comprehension Model
-Please refer [Here](https://github.com/VV123/Spatial-Comprehension).
+Please refer [Spatial Comprehension](https://github.com/VV123/Spatial-Comprehension).
 ## Evaluation
 
 Geoquery
