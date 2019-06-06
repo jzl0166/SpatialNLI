@@ -24,12 +24,17 @@ Geoquery
 | SEQ2TREE      | 87.1%         |
 | TRANX         | 88.2%         |
 | JL16          | 89.2%         |
-| **SpatialNLI**| **90.4%**     |
+| **SpatialNLI**| [**90.4%**](https://drive.google.com/drive/folders/1GskZI_sPrDbp9yn6YjEtLmmEKtLvT85o)     |
 
 Restaurant
 
 |Method        | Acc<sub>qm</sub>|
 |--------------|-----------------|
-|**SpatialNLI**|**100%**         |
+|**SpatialNLI**|[**100%**](https://drive.google.com/drive/folders/1heNxCCuQ2O8NgfIYFViG0lEk1KwF02Uq)        |
 
 
+Geoquery + Rest
+
+|Method| Acc<sub>qm</sub>|
+|--------------|-----------------|
+|**SpatialNLI**|[**90.7**](https://drive.google.com/drive/folders/1ydwkOq-2TokSgL3EmjmJC3i7oYL07PrO)|
