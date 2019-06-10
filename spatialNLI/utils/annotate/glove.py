@@ -10,7 +10,7 @@ import numpy as np
 
 from multiprocessing import current_process
 from scipy import spatial
-GLOVE_PATH = '/Users/lijing/Desktop/NLIDB-master/glove'
+GLOVE_PATH = '/nfs_shares/jzl0166_home/bc/glove'
 class Glove:
     """
     Wrapper for GloVe embedding.
