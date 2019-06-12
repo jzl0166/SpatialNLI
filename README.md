@@ -16,9 +16,11 @@ To infer using pre-trained model
 Please refer [Spatial Comprehension](https://github.com/VV123/Spatial-Comprehension).
 ## Evaluation
 
+We use denotation match accuracy Acc<sub>dm</sub> for evaluation.
+
 Geoquery
 
-| Method        | Acc<sub>qm</sub>|
+| Method        | Acc<sub>dm</sub>|
 | ------------- | ------------- |
 | ASN           | 87.1%         |
 | SEQ2TREE      | 87.1%         |
@@ -28,13 +30,13 @@ Geoquery
 
 Restaurant
 
-|Method        | Acc<sub>qm</sub>|
+|Method        | Acc<sub>dm</sub>|
 |--------------|-----------------|
 |**SpatialNLI**|[**100%**](https://drive.google.com/drive/folders/1heNxCCuQ2O8NgfIYFViG0lEk1KwF02Uq)        |
 
 
 Geoquery + Rest
 
-|Method| Acc<sub>qm</sub>|
+|Method| Acc<sub>dm</sub>|
 |--------------|-----------------|
 |**SpatialNLI**|[**90.7**](https://drive.google.com/drive/folders/1ydwkOq-2TokSgL3EmjmJC3i7oYL07PrO)|
