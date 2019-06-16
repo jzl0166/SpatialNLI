@@ -32,11 +32,13 @@ To Build data
 To train new model
 
 ```python main.py --mode train --data 'geo'```
+
 ```python main.py --mode train --data 'rest'```
 
 To infer using pre-trained model
 
 ```python main.py --mode infer --data 'geo'```
+
 ```python main.py --mode infer --data 'rest'```
 
 
