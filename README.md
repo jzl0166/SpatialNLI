@@ -9,27 +9,35 @@
 ## Usage
 To annotate Geo880
 
-```python utils/annotate/annotate_geo```
+```python utils/annotate/annotate_geo.py```
 
 To annotate Rest
 
-```python utils/annotate/annotate_rest```
+```python utils/annotate/annotate_rest.py```
 
 To augment Geo880
 
-```python utils/augmentation/augmentation_geo```
+```python utils/augmentation/augmentation_geo.py```
 
 To augment Rest
 
-```python utils/augmentation/augmentation_rest```
+```python utils/augmentation/augmentation_rest.py```
+
+To Build data
+
+```python utils/data_manager.py --data 'geo'```
+
+```python utils/data_manager.py --data 'rest'```
 
 To train new model
 
-```python main.py --mode train```
+```python main.py --mode train --data 'geo'```
+```python main.py --mode train --data 'rest'```
 
 To infer using pre-trained model
 
-```python main.py --mode infer```
+```python main.py --mode infer --data 'geo'```
+```python main.py --mode infer --data 'rest'```
 
 
 ## Spatial Comprehension Model
