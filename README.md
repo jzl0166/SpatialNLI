@@ -2,7 +2,27 @@
 
   SpatialNLI: A Spatial Domain Natural Language Interface to Databases Using Spatial Comprehension
 
+## Dependencies
+  - TF 1.4
+  - python 2.7
+
 ## Usage
+To annotate Geo880
+
+```python utils/annotate/annotate_geo```
+
+To annotate Rest
+
+```python utils/annotate/annotate_rest```
+
+To augment Geo880
+
+```python utils/augmentation/augmentation_geo```
+
+To augment Rest
+
+```python utils/augmentation/augmentation_rest```
+
 To train new model
 
 ```python main.py --mode train```
