@@ -7,13 +7,6 @@
   - python 2.7
 
 ## Usage
-To annotate Geo880
-
-```python utils/annotate/annotate_geo.py```
-
-To annotate Rest
-
-```python utils/annotate/annotate_rest.py```
 
 To augment Geo880
 
@@ -22,6 +15,14 @@ To augment Geo880
 To augment Rest
 
 ```python utils/augmentation/augmentation_rest.py```
+
+To annotate Geo880
+
+```python utils/annotate/annotate_geo.py```
+
+To annotate Rest
+
+```python utils/annotate/annotate_rest.py```
 
 To Build data
 
