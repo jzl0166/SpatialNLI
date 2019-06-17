@@ -8,14 +8,6 @@
 
 ## Usage
 
-To augment Geo880
-
-```python utils/augmentation/augmentation_geo.py```
-
-To augment Rest
-
-```python utils/augmentation/augmentation_rest.py```
-
 To annotate Geo880
 
 ```python utils/annotate/annotate_geo.py```
@@ -42,6 +34,13 @@ To infer using pre-trained model
 
 ```python main.py --mode infer --data 'rest'```
 
+To augment Geo880
+
+```python utils/augmentation/augmentation_geo.py```
+
+To augment Rest
+
+```python utils/augmentation/augmentation_rest.py```
 
 ## Spatial Comprehension Model
 Please refer [Spatial Comprehension](https://github.com/VV123/Spatial-Comprehension).
