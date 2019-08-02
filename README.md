@@ -2,7 +2,7 @@
 
   SpatialNLI: A Spatial Domain Natural Language Interface to Databases Using Spatial Comprehension
   
-  This repository includes a Tensorflow implementation for our [paper](https://arxiv.org/abs/1809.02649). If you find this code useful in your research, please consider citing
+  This repository uses a Tensorflow implementation of this [paper](https://arxiv.org/abs/1809.02649). If you find this code useful in your research, please cite
 ```
 @article{wang2018transfer,
   title={A transfer-learnable natural language interface for databases},
