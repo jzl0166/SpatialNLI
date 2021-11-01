@@ -16,21 +16,7 @@ Understanding Spatial Semantics based on context. (e.g., understand the type of 
  | How many rooms are `at the back of` the building? | Interior |
   
 
-## Usage
-
-[Directory](SpatialNLI/utils/annotate/bc)
-
-To build data
-
-```python embed.py```
-
-To train a new model
-
-```python word_classifier.py --mode train```
-
-To use trained model for evaluating test sets
-
-```python word_classifier.py --mode infer```
+## Example
 
 To use trained model to infer a question
 
