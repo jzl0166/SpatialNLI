@@ -1,6 +1,7 @@
 # SpatialNLI
 
-  [SpatialNLI: A Spatial Domain Natural Language Interface to Databases Using Spatial Comprehension](https://arxiv.org/pdf/1908.10917.pdf)
+  [SpatialNLI: A Spatial Domain Natural Language Interface to Databases Using Spatial Comprehension](https://dl.acm.org/doi/10.1145/3347146.3359069)
+  
   This repo contains annotation and augmentation methods  
       
 ## Dependencies
