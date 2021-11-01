@@ -1,4 +1,6 @@
-# SpatialNLI
+Main Page | [SpatialNLI](./README.second.md) | [Spatial Comprehension](./README.spatial.md) 
+
+# SpatialNLI 
 
   [SpatialNLI: A Spatial Domain Natural Language Interface to Databases Using Spatial Comprehension](https://dl.acm.org/doi/10.1145/3347146.3359069)
   
