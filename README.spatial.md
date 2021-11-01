@@ -1,4 +1,3 @@
-Spatial Comprehension 
 
 # SpatialNLI using Spatial-Comprehension
 Understanding Spatial Semantics based on context. (e.g., understand the type of a Point-of-Interest)
@@ -16,14 +15,10 @@ Understanding Spatial Semantics based on context. (e.g., understand the type of 
  | How many trees are `at the back of` the building? | Exterior |
  | How many rooms are `at the back of` the building? | Interior |
   
-   
-## Approach
-  Using a bi-directional attention flow to resolve ambiguity by understanding the spatial context.
-  ![Model](model.jpg)
 
 ## Usage
 
-[Directory](/utils/annotate/bc)
+[Directory](SpatialNLI/utils/annotate/bc)
 
 To build data
 
