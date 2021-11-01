@@ -5,16 +5,6 @@ GeoQuery https://worksheets.codalab.org/worksheets/0x50757a37779b485f89012e4ba03
 
 <!-- RestQuery http://www.cs.utexas.edu/users/ml/nldata/restquery.html -->
 
-Build data
-
-```
-USAGE
-  $ python utils/data_manager.py
-
-OPTIONS
-  --data  geo
-```
-
 Train 
 
 ```
