@@ -1,10 +1,8 @@
 # SpatialNLI
 
-  SpatialNLI: A Spatial Domain Natural Language Interface to Databases Using Spatial Comprehension
-  This repo contains annotation and augmentation methods.  
-    
-  Please refer [repo](https://github.com/VV123/SpatialNLI) for a full implementation.
-  
+  [SpatialNLI: A Spatial Domain Natural Language Interface to Databases Using Spatial Comprehension](https://arxiv.org/pdf/1908.10917.pdf)
+  This repo contains annotation and augmentation methods  
+      
 ## Dependencies
   - TF 1.4
   - python 2.7
