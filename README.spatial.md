@@ -1,4 +1,4 @@
-[SpatialNLI](./README.md) | Spatial Comprehension 
+Spatial Comprehension 
 
 # SpatialNLI using Spatial-Comprehension
 Understanding Spatial Semantics based on context. (e.g., understand the type of a Point-of-Interest)
@@ -49,38 +49,5 @@ For example, "How many rivers are found in `colorado` ?", to infer whether `colo
     OUTPUT: flag = 'state'
             prob = [.1, .9, .1]
     
-   
-
-## Performance
- 
-  Acc<sub>rcd</sub> is record accuracy. *It is the acc that optimized by spatial comprehension model.*
-  
-  Acc<sub>qu</sub> is question accuracy. *It is the acc that we would like to improve.*
-  
-  |Data Split|         | Train | Test|
-  |----------|---------|-------|-----|
-  |Geoquery  | Acc<sub>rcd</sub> |97.4%  |91.9%|
-  |Geoquery  | Acc<sub>qu</sub> |98.3%  |[**98.1%**](https://drive.google.com/drive/folders/1-9jByLW3_zmpgUjeYaCSfuf-t36foL1i)|
-  |Restaurant| Acc<sub>rcd</sub> |100%   |100% |
-  |Restaurant| Acc<sub>qu</sub> |100%   |[**100%**](https://drive.google.com/drive/folders/1oG37fIyKIZ26-ht12xR1Ll3TzrGNFy-z?usp=sharing)|
-  
-
-<!---Training with multiple datasets using a single model
-|              |Acc<sub>qm</sub>|Acc<sub>qm</sub>|
-|--------------|----------------|----------------|
-| Model        |Geoquery        |Restaurant      |
-| Separate     | 90.4%          |100%            |
-| Shared       |**90.7%**       |**100%**        |
---->
-
- 
-
-  [Warning] Make sure the size of the test set is divisible by batch_size while evaluation.
-  
-  
-## Table Linking
-
-   In extension/table_link.ipynb
-
 
   
